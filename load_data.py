@@ -234,10 +234,13 @@ def main(curr):
     loadTrack(curr)
     loadInvoiceLine(curr)
     artist_dict = artistDict();
+    for key, value in artist_dict.items():
+        print(key, ": ", value)
 
 
     loadArtist(curr, artist_dict)
     loadAlbumArtist(curr, artist_dict)
+    
 
 
 main(curr)

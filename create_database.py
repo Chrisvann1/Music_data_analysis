@@ -81,7 +81,7 @@ def tableInitialization(curr):
             invoice_id INT PRIMARY KEY, 
             customer_id INT NOT NULL,
             invoice_date DATE NOT NULL, 
-            total DECIMAL(10,2) NOT NULL,
+            total DECIMAL(10,2) NOT NULL CHECK (total >= 0),
             FOREIGN KEY (customer_id) REFERENCES Customer(customer_id)
         );
     """)
@@ -93,8 +93,8 @@ def tableInitialization(curr):
             track_name VARCHAR(255) NOT NULL,
             album_id INT,
             genre_id INT,
-            milliseconds INT,
-            unit_price DECIMAL(10,2),
+            milliseconds INT CHECK (milliseconds > 0),
+            unit_price DECIMAL(10,2) CHECK (unit_price >= 0),
             FOREIGN KEY (album_id) REFERENCES Album(album_id),
             FOREIGN KEY (genre_id) REFERENCES Genre(genre_id)
         );
@@ -131,4 +131,5 @@ def main(curr):
     useDB(curr)
     tableInitialization(curr)
 
-main(curr)
+if __name__ == "__main__":
+    main(curr)
