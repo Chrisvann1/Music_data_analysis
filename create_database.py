@@ -32,7 +32,7 @@ def useDB(curr):
 
 def tableInitialization(curr):
 
-    # 1. Country
+    # Country
     curr.execute("""
         CREATE TABLE IF NOT EXISTS Country(
             country_id INT PRIMARY KEY AUTO_INCREMENT, 
@@ -40,7 +40,7 @@ def tableInitialization(curr):
         );
     """)
 
-    # 2. Genre
+    # Genre
     curr.execute("""
         CREATE TABLE IF NOT EXISTS Genre(
             genre_id INT PRIMARY KEY, 
@@ -48,7 +48,7 @@ def tableInitialization(curr):
         );
     """)
 
-    # 3. Artist
+    # Artist
     curr.execute("""
         CREATE TABLE IF NOT EXISTS Artist(
             artist_id INT PRIMARY KEY AUTO_INCREMENT, 
@@ -56,7 +56,7 @@ def tableInitialization(curr):
         );
     """)
 
-    # 4. Album
+    # Album
     curr.execute("""
         CREATE TABLE IF NOT EXISTS Album(
             album_id INT PRIMARY KEY, 
@@ -64,7 +64,7 @@ def tableInitialization(curr):
         );
     """)
 
-    # 5. Customer
+    # Customer
     curr.execute("""
         CREATE TABLE IF NOT EXISTS Customer(
             customer_id INT PRIMARY KEY, 
@@ -75,7 +75,7 @@ def tableInitialization(curr):
         );
     """)
 
-    # 6. Invoice
+    # Invoice
     curr.execute("""
         CREATE TABLE IF NOT EXISTS Invoice(
             invoice_id INT PRIMARY KEY, 
@@ -86,7 +86,7 @@ def tableInitialization(curr):
         );
     """)
 
-    # 7. Track
+    # Track
     curr.execute("""
         CREATE TABLE IF NOT EXISTS Track(
             track_id INT PRIMARY KEY,
@@ -100,7 +100,7 @@ def tableInitialization(curr):
         );
     """)
 
-    # 8. InvoiceLine
+    # InvoiceLine
     curr.execute("""
         CREATE TABLE IF NOT EXISTS InvoiceLine(
             invoice_line_id INT PRIMARY KEY,
@@ -111,7 +111,7 @@ def tableInitialization(curr):
         );
     """)
 
-    # 9. AlbumArtist 
+    # AlbumArtist 
     curr.execute("""
         CREATE TABLE IF NOT EXISTS AlbumArtist(
             album_id INT,

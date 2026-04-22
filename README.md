@@ -4,6 +4,12 @@
     - pandas
     - matplotlib
 
+# Env. File 
+    - Create a .env file containing 
+        - DBHost
+        - DBUSERNAME
+        - PASSWORD
+
 # Run Instructions
 ```
     python3 create_database.py
