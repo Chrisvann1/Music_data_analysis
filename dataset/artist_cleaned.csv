@@ -1,0 +1,276 @@
+artist_id,name,clean_name
+1,AC/DC,AC/DC
+2,Accept,Accept
+3,Aerosmith,Aerosmith
+4,Alanis Morissette,Alanis Morissette
+5,Alice In Chains,Alice In Chains
+6,Antônio Carlos Jobim,Antônio Carlos Jobim
+7,Apocalyptica,Apocalyptica
+8,Audioslave,Audioslave
+9,BackBeat,BackBeat
+10,Billy Cobham,Billy Cobham
+11,Black Label Society,Black Label Society
+12,Black Sabbath,Black Sabbath
+13,Body Count,Body Count
+14,Bruce Dickinson,Bruce Dickinson
+15,Buddy Guy,Buddy Guy
+16,Caetano Veloso,Caetano Veloso
+17,Chico Buarque,Chico Buarque
+18,Chico Science & Nação Zumbi,Chico Science|Nação Zumbi
+19,Cidade Negra,Cidade Negra
+20,Cláudio Zoli,Cláudio Zoli
+21,Various Artists,Various Artists
+22,Led Zeppelin,Led Zeppelin
+23,Frank Zappa & Captain Beefheart,Frank Zappa|Captain Beefheart
+24,Marcos Valle,Marcos Valle
+25,Milton Nascimento & Bebeto,Milton Nascimento|Bebeto
+26,Azymuth,Azymuth
+27,Gilberto Gil,Gilberto Gil
+28,João Gilberto,João Gilberto
+29,Bebel Gilberto,Bebel Gilberto
+30,Jorge Vercilo,Jorge Vercilo
+31,Baby Consuelo,Baby Consuelo
+32,Ney Matogrosso,Ney Matogrosso
+33,Luiz Melodia,Luiz Melodia
+34,Nando Reis,Nando Reis
+35,Pedro Luís & A Parede,Pedro Luís|A Parede
+36,O Rappa,O Rappa
+37,Ed Motta,Ed Motta
+38,Banda Black Rio,Banda Black Rio
+39,Fernanda Porto,Fernanda Porto
+40,Os Cariocas,Os Cariocas
+41,Elis Regina,Elis Regina
+42,Milton Nascimento,Milton Nascimento
+43,A Cor Do Som,A Cor Do Som
+44,Kid Abelha,Kid Abelha
+45,Sandra De Sá,Sandra De Sá
+46,Jorge Ben,Jorge Ben
+47,Hermeto Pascoal,Hermeto Pascoal
+48,Barão Vermelho,Barão Vermelho
+49,"Edson, DJ Marky & DJ Patife Featuring Fernanda Porto",Edson|DJ Marky|DJ Patife
+50,Metallica,Metallica
+51,Queen,Queen
+52,Kiss,Kiss
+53,Spyro Gyra,Spyro Gyra
+54,Green Day,Green Day
+55,David Coverdale,David Coverdale
+56,Gonzaguinha,Gonzaguinha
+57,Os Mutantes,Os Mutantes
+58,Deep Purple,Deep Purple
+59,Santana,Santana
+60,Santana Feat. Dave Matthews,Santana
+61,Santana Feat. Everlast,Santana
+62,Santana Feat. Rob Thomas,Santana
+63,Santana Feat. Lauryn Hill & Cee-Lo,Santana
+64,Santana Feat. The Project G&B,Santana
+65,Santana Feat. Maná,Santana
+66,Santana Feat. Eagle-Eye Cherry,Santana
+67,Santana Feat. Eric Clapton,Santana
+68,Miles Davis,Miles Davis
+69,Gene Krupa,Gene Krupa
+70,Toquinho & Vinícius,Toquinho|Vinícius
+71,Vinícius De Moraes & Baden Powell,Vinícius De Moraes|Baden Powell
+72,Vinícius De Moraes,Vinícius De Moraes
+73,Vinícius E Qurteto Em Cy,Vinícius De Moraes|Qurteto Em Cy
+74,Vinícius E Odette Lara,Vinícius De Moraes|Odette Lara
+75,"Vinicius, Toquinho & Quarteto Em Cy",Vinícius De Moraes|Toquinho|Quarteto Em Cy
+76,Creedence Clearwater Revival,Creedence Clearwater Revival
+77,Cássia Eller,Cássia Eller
+78,Def Leppard,Def Leppard
+79,Dennis Chambers,Dennis Chambers
+80,Djavan,Djavan
+81,Eric Clapton,Eric Clapton
+82,Faith No More,Faith No More
+83,Falamansa,Falamansa
+84,Foo Fighters,Foo Fighters
+85,Frank Sinatra,Frank Sinatra
+86,Funk Como Le Gusta,Funk Como Le Gusta
+87,Godsmack,Godsmack
+88,Guns N' Roses,Guns N' Roses
+89,Incognito,Incognito
+90,Iron Maiden,Iron Maiden
+91,James Brown,James Brown
+92,Jamiroquai,Jamiroquai
+93,JET,JET
+94,Jimi Hendrix,Jimi Hendrix
+95,Joe Satriani,Joe Satriani
+96,Jota Quest,Jota Quest
+97,João Suplicy,João Suplicy
+98,Judas Priest,Judas Priest
+99,Legião Urbana,Legião Urbana
+100,Lenny Kravitz,Lenny Kravitz
+101,Lulu Santos,Lulu Santos
+102,Marillion,Marillion
+103,Marisa Monte,Marisa Monte
+104,Marvin Gaye,Marvin Gaye
+105,Men At Work,Men At Work
+106,Motörhead,Motörhead
+107,Motörhead & Girlschool,Motörhead|Girlschool
+108,Mônica Marianno,Mônica Marianno
+109,Mötley Crüe,Mötley Crüe
+110,Nirvana,Nirvana
+111,O Terço,O Terço
+112,Olodum,Olodum
+113,Os Paralamas Do Sucesso,Os Paralamas Do Sucesso
+114,Ozzy Osbourne,Ozzy Osbourne
+115,Page & Plant,Page & Plant
+116,Passengers,Passengers
+117,Paul D'Ianno,Paul D'Ianno
+118,Pearl Jam,Pearl Jam
+119,Peter Tosh,Peter Tosh
+120,Pink Floyd,Pink Floyd
+121,Planet Hemp,Planet Hemp
+122,R.E.M. Feat. Kate Pearson,R.E.M.
+123,R.E.M. Feat. KRS-One,R.E.M.
+124,R.E.M.,R.E.M.
+125,Raimundos,Raimundos
+126,Raul Seixas,Raul Seixas
+127,Red Hot Chili Peppers,Red Hot Chili Peppers
+128,Rush,Rush
+129,Simply Red,Simply Red
+130,Skank,Skank
+131,Smashing Pumpkins,Smashing Pumpkins
+132,Soundgarden,Soundgarden
+133,Stevie Ray Vaughan & Double Trouble,Stevie Ray Vaughan|Double Trouble
+134,Stone Temple Pilots,Stone Temple Pilots
+135,System Of A Down,System Of A Down
+136,Bozzio Levin Stevens,Bozzio Levin Stevens
+137,The Black Crowes,The Black Crowes
+138,The Clash,The Clash
+139,The Cult,The Cult
+140,The Doors,The Doors
+141,The Police,The Police
+142,The Rolling Stones,The Rolling Stones
+143,The Tea Party,The Tea Party
+144,The Who,The Who
+145,Tim Maia,Tim Maia
+146,Titãs,Titãs
+147,Battlestar Galactica,Battlestar Galactica
+148,Heroes,Heroes
+149,Lost,Lost
+150,U2,U2
+151,UB40,UB40
+152,Van Halen,Van Halen
+153,Velvet Revolver,Velvet Revolver
+154,Whitesnake,Whitesnake
+155,Zeca Pagodinho,Zeca Pagodinho
+156,The Office,The Office
+157,Dread Zeppelin,Dread Zeppelin
+158,Battlestar Galactica (Classic),Battlestar Galactica (Classic)
+159,Aquaman,Aquaman
+160,Christina Aguilera featuring BigElf,Christina Aguilera
+161,Aerosmith & Sierra Leone's Refugee Allstars,Aerosmith|Sierra Leone's Refugee Allstars
+162,Los Lonely Boys,Los Lonely Boys
+163,Corinne Bailey Rae,Corinne Bailey Rae
+164,Dhani Harrison & Jakob Dylan,Dhani Harrison|Jakob Dylan
+165,Jackson Browne,Jackson Browne
+166,Avril Lavigne,Avril Lavigne
+167,Big & Rich,Big & Rich
+168,Youssou N'Dour,Youssou N'Dour
+169,Black Eyed Peas,Black Eyed Peas
+170,Jack Johnson,Jack Johnson
+171,Ben Harper,Ben Harper
+172,Snow Patrol,Snow Patrol
+173,Matisyahu,Matisyahu
+174,The Postal Service,The Postal Service
+175,Jaguares,Jaguares
+176,The Flaming Lips,The Flaming Lips
+177,Jack's Mannequin & Mick Fleetwood,Jack's Mannequin|Mick Fleetwood
+178,Regina Spektor,Regina Spektor
+179,Scorpions,Scorpions
+180,House Of Pain,House Of Pain
+181,Xis,Xis
+182,Nega Gizza,Nega Gizza
+183,Gustavo & Andres Veiga & Salazar,Gustavo|Andres Veiga|Salazar
+184,Rodox,Rodox
+185,Charlie Brown Jr.,Charlie Brown Jr.
+186,Pedro Luís E A Parede,Pedro Luís E A Parede
+187,Los Hermanos,Los Hermanos
+188,Mundo Livre S/A,Mundo Livre S/A
+189,Otto,Otto
+190,Instituto,Instituto
+191,Nação Zumbi,Nação Zumbi
+192,DJ Dolores & Orchestra Santa Massa,DJ Dolores|Orchestra Santa Massa
+193,Seu Jorge,Seu Jorge
+194,Sabotage E Instituto,Sabotage E Instituto
+195,Stereo Maracana,Stereo Maracana
+196,Cake,Cake
+197,Aisha Duo,Aisha Duo
+198,Habib Koité and Bamada,Habib Koité|Bamada
+199,Karsh Kale,Karsh Kale
+200,The Posies,The Posies
+201,Luciana Souza/Romero Lubambo,Luciana Souza|Romero Lubambo
+202,Aaron Goldberg,Aaron Goldberg
+203,Nicolaus Esterhazy Sinfonia,Nicolaus Esterhazy Sinfonia
+204,Temple of the Dog,Temple of the Dog
+205,Chris Cornell,Chris Cornell
+206,Alberto Turco & Nova Schola Gregoriana,Alberto Turco|Nova Schola Gregoriana
+207,"Richard Marlow & The Choir of Trinity College, Cambridge",Richard Marlow|The Choir of Trinity College|Cambridge
+208,English Concert & Trevor Pinnock,English Concert|Trevor Pinnock
+209,"Anne-Sophie Mutter, Herbert Von Karajan & Wiener Philharmoniker",Anne-Sophie Mutter|Herbert Von Karajan|Wiener Philharmoniker
+210,"Hilary Hahn, Jeffrey Kahane, Los Angeles Chamber Orchestra & Margaret Batjer",Hilary Hahn|Jeffrey Kahane|Los Angeles Chamber Orchestra|Margaret Batjer
+211,Wilhelm Kempff,Wilhelm Kempff
+212,Yo-Yo Ma,Yo-Yo Ma
+213,Scholars Baroque Ensemble,Scholars Baroque Ensemble
+214,Academy of St. Martin in the Fields & Sir Neville Marriner,Academy of St. Martin in the Fields|Sir Neville Marriner
+215,Academy of St. Martin in the Fields Chamber Ensemble & Sir Neville Marriner,Academy of St. Martin in the Fields Chamber Ensemble|Sir Neville Marriner
+216,"Berliner Philharmoniker, Claudio Abbado & Sabine Meyer",Berliner Philharmoniker|Claudio Abbado|Sabine Meyer
+217,Royal Philharmonic Orchestra & Sir Thomas Beecham,Royal Philharmonic Orchestra|Sir Thomas Beecham
+218,Orchestre Révolutionnaire et Romantique & John Eliot Gardiner,Orchestre Révolutionnaire et Romantique|John Eliot Gardiner
+219,"Britten Sinfonia, Ivor Bolton & Lesley Garrett",Britten Sinfonia|Ivor Bolton|Lesley Garrett
+220,"Chicago Symphony Chorus, Chicago Symphony Orchestra & Sir Georg Solti",Chicago Symphony Chorus|Chicago Symphony Orchestra|Sir Georg Solti
+221,Sir Georg Solti & Wiener Philharmoniker,Sir Georg Solti|Wiener Philharmoniker
+222,"Academy of St. Martin in the Fields, John Birch, Sir Neville Marriner & Sylvia McNair",Academy of St. Martin in the Fields|John Birch|Sir Neville Marriner|Sylvia McNair
+223,London Symphony Orchestra & Sir Charles Mackerras,London Symphony Orchestra|Sir Charles Mackerras
+224,Barry Wordsworth & BBC Concert Orchestra,Barry Wordsworth|BBC Concert Orchestra
+225,"Herbert Von Karajan, Mirella Freni & Wiener Philharmoniker",Herbert Von Karajan|Mirella Freni|Wiener Philharmoniker
+226,Eugene Ormandy,Eugene Ormandy
+227,Luciano Pavarotti,Luciano Pavarotti
+228,Leonard Bernstein & New York Philharmonic,Leonard Bernstein|New York Philharmonic
+229,Boston Symphony Orchestra & Seiji Ozawa,Boston Symphony Orchestra|Seiji Ozawa
+230,Aaron Copland & London Symphony Orchestra,Aaron Copland|London Symphony Orchestra
+231,Ton Koopman,Ton Koopman
+232,Sergei Prokofiev & Yuri Temirkanov,Sergei Prokofiev|Yuri Temirkanov
+233,Chicago Symphony Orchestra & Fritz Reiner,Chicago Symphony Orchestra|Fritz Reiner
+234,Orchestra of The Age of Enlightenment,Orchestra of The Age of Enlightenment
+235,"Emanuel Ax, Eugene Ormandy & Philadelphia Orchestra",Emanuel Ax|Eugene Ormandy|Philadelphia Orchestra
+236,James Levine,James Levine
+237,Berliner Philharmoniker & Hans Rosbaud,Berliner Philharmoniker|Hans Rosbaud
+238,Maurizio Pollini,Maurizio Pollini
+239,"Academy of St. Martin in the Fields, Sir Neville Marriner & William Bennett",Academy of St. Martin in the Fields|Sir Neville Marriner|William Bennett
+240,Gustav Mahler,Gustav Mahler
+241,"Felix Schmidt, London Symphony Orchestra & Rafael Frühbeck de Burgos",Felix Schmidt|London Symphony Orchestra|Rafael Frühbeck de Burgos
+242,Edo de Waart & San Francisco Symphony,Edo de Waart|San Francisco Symphony
+243,Antal Doráti & London Symphony Orchestra,Antal Doráti|London Symphony Orchestra
+244,Choir Of Westminster Abbey & Simon Preston,Choir Of Westminster Abbey|Simon Preston
+245,Michael Tilson Thomas & San Francisco Symphony,Michael Tilson Thomas|San Francisco Symphony
+246,"Chor der Wiener Staatsoper, Herbert Von Karajan & Wiener Philharmoniker",Chor der Wiener Staatsoper|Herbert Von Karajan|Wiener Philharmoniker
+247,The King's Singers,The King's Singers
+248,Berliner Philharmoniker & Herbert Von Karajan,Berliner Philharmoniker|Herbert Von Karajan
+249,"Sir Georg Solti, Sumi Jo & Wiener Philharmoniker",Sir Georg Solti|Sumi Jo|Wiener Philharmoniker
+250,Christopher O'Riley,Christopher O'Riley
+251,Fretwork,Fretwork
+252,Amy Winehouse,Amy Winehouse
+253,Calexico,Calexico
+254,Otto Klemperer & Philharmonia Orchestra,Otto Klemperer|Philharmonia Orchestra
+255,Yehudi Menuhin,Yehudi Menuhin
+256,Philharmonia Orchestra & Sir Neville Marriner,Philharmonia Orchestra|Sir Neville Marriner
+257,"Academy of St. Martin in the Fields, Sir Neville Marriner & Thurston Dart",Academy of St. Martin in the Fields|Sir Neville Marriner|Thurston Dart
+258,Les Arts Florissants & William Christie,Les Arts Florissants|William Christie
+259,The 12 Cellists of The Berlin Philharmonic,The 12 Cellists of The Berlin Philharmonic
+260,Adrian Leaper & Doreen de Feis,Adrian Leaper|Doreen de Feis
+261,"Roger Norrington, London Classical Players",Roger Norrington|London Classical Players
+262,Charles Dutoit & L'Orchestre Symphonique de Montréal,Charles Dutoit|L'Orchestre Symphonique de Montréal
+263,"Equale Brass Ensemble, John Eliot Gardiner & Munich Monteverdi Orchestra and Choir",Equale Brass Ensemble|John Eliot Gardiner|Munich Monteverdi Orchestra|Choir
+264,Kent Nagano and Orchestre de l'Opéra de Lyon,Kent Nagano|Orchestre de l'Opéra de Lyon
+265,Julian Bream,Julian Bream
+266,Martin Roscoe,Martin Roscoe
+267,Göteborgs Symfoniker & Neeme Järvi,Göteborgs Symfoniker|Neeme Järvi
+268,Itzhak Perlman,Itzhak Perlman
+269,Michele Campanella,Michele Campanella
+270,Gerald Moore,Gerald Moore
+271,"Mela Tenenbaum, Pro Musica Prague & Richard Kapp",Mela Tenenbaum|Pro Musica Prague|Richard Kapp
+272,Emerson String Quartet,Emerson String Quartet
+273,"C. Monteverdi, Nigel Rogers - Chiaroscuro; London Baroque; London Cornett & Sackbu",C. Monteverdi|Nigel Rogers - Chiaroscuro; London Baroque; London Cornett|Sackbu
+274,Nash Ensemble,Nash Ensemble
+275,Philip Glass Ensemble,Philip Glass Ensemble
